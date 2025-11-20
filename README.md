@@ -90,7 +90,7 @@ Soy un estudiante de **Ingeniería de Software** de Lima, Perú, apasionado por 
         <br><br>
         Sistema reactivo (Spring WebFlux) bajo arquitectura de microservicios (BFF, Clientes, Productos). Implementa seguridad con OAuth2/JWT y trazabilidad de solicitudes (X-Correlation-Id).
         <br><br>
-        <a href=""><strong>Ver Repositorio →</strong></a>
+        <a href="https://github.com/Jhon-Alv/springboot-sistema-financiero-microservicio"><strong>Ver Repositorio →</strong></a>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -105,7 +105,7 @@ Soy un estudiante de **Ingeniería de Software** de Lima, Perú, apasionado por 
         <br><br>
         Aplicación web completa con frontend interactivo en Angular y una API RESTful robusta en Spring Boot, desplegada en un entorno multicontenedor con Docker Compose.
         <br><br>
-        <a href=""><strong>Ver Repositorio →</strong></a>
+        <a href="https://github.com/Jhon-Alv/todo-fullstack"><strong>Ver Repositorio →</strong></a>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -121,7 +121,7 @@ Soy un estudiante de **Ingeniería de Software** de Lima, Perú, apasionado por 
         <br><br>
         Plataforma e-commerce full-stack diseñada para ser escalable. Incluye gestión de productos (CRUD) y un módulo funcional de carrito de compras.
         <br><br>
-        <a href=""><strong>Ver Repositorio →</strong></a>
+        <a href="https://github.com/Jhon-Alv/urban-soul"><strong>Ver Repositorio →</strong></a>
       </td>
       <td>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
@@ -130,14 +130,27 @@ Soy un estudiante de **Ingeniería de Software** de Lima, Perú, apasionado por 
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
       </td>
     </tr>
+    <tr>
+      <td>
+        <strong>Supermercado API</strong>
+        <br><br>
+        API RESTful backend para la gestión integral de un supermercado (Inventario, Sucursales y Ventas). Implementa arquitectura limpia, patrón DTO, mappers personalizados y despliegue contenerizado.
+        <br><br>
+        <a href="https://github.com/Jhon-Alv/springboot-supermercado-api"><strong>Ver Repositorio →</strong></a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+      </td>
+    </tr>
   </tbody>
 </table>
 
 ---
 
 ### 📊 Estadísticas de GitHub
-
-(Estas se actualizarán solas una vez que las añadas)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jhon-Alv&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Jhon-Alv" />
